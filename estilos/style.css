@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 /* 
   Variáveis para cores:
   --fundo-principal
@@ -6,4 +8,10 @@
   --destaque
   --destaque-inverso
   --fundo-card
+
 */
+
+body {
+  background-color: rgb(62, 88, 183);
+  color: white;
+}
